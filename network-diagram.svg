@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc">
+  <title id="title">Three-computer LAN connected through an Ethernet switch</title>
+  <desc id="desc">PC1, PC2, and PC3 connect by Ethernet cables to a central network switch.</desc>
+  <rect width="1000" height="560" rx="24" fill="#f8fafc"/>
+  <text x="500" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#0f172a">Local Area Network (LAN)</text>
+  <rect x="350" y="100" width="300" height="110" rx="18" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+  <g stroke="#2563eb" stroke-width="3" fill="none">
+    <path d="M390 145h28v25h-28z M430 145h28v25h-28z M470 145h28v25h-28z M510 145h28v25h-28z M550 145h28v25h-28z M590 145h20v25h-20z"/>
+  </g>
+  <text x="500" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#1e3a8a">Ethernet Switch</text>
+  <g stroke="#64748b" stroke-width="4" fill="none">
+    <path d="M500 210V265H180V330"/>
+    <path d="M500 265V330"/>
+    <path d="M500 265H820V330"/>
+  </g>
+  <g>
+    <rect x="75" y="330" width="210" height="150" rx="16" fill="#ffffff" stroke="#94a3b8" stroke-width="2"/>
+    <rect x="395" y="330" width="210" height="150" rx="16" fill="#ffffff" stroke="#94a3b8" stroke-width="2"/>
+    <rect x="715" y="330" width="210" height="150" rx="16" fill="#ffffff" stroke="#94a3b8" stroke-width="2"/>
+    <g stroke="#334155" stroke-width="3" fill="none">
+      <rect x="135" y="350" width="90" height="55" rx="5"/>
+      <path d="M180 405v12m-22 0h44"/>
+      <rect x="455" y="350" width="90" height="55" rx="5"/>
+      <path d="M500 405v12m-22 0h44"/>
+      <rect x="775" y="350" width="90" height="55" rx="5"/>
+      <path d="M820 405v12m-22 0h44"/>
+    </g>
+    <text x="180" y="448" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#0f172a">PC1</text>
+    <text x="180" y="468" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#475569">192.168.1.10</text>
+    <text x="500" y="448" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#0f172a">PC2</text>
+    <text x="500" y="468" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#475569">192.168.1.11</text>
+    <text x="820" y="448" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#0f172a">PC3</text>
+    <text x="820" y="468" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#475569">192.168.1.12</text>
+  </g>
+  <text x="500" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#475569">Each computer connects to a separate switch port using Ethernet cable.</text>
+</svg>
